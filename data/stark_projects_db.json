@@ -1,0 +1,97 @@
+{
+  "proj_esc_apex40": {
+    "id": "proj_esc_apex40",
+    "name": "Apex ESC 40A Motor Controller",
+    "currentProductId": "esc_controller",
+    "cadState": {
+      "explodedProgress": 0,
+      "cameraPreset": "iso",
+      "hiddenPartIds": [],
+      "xrayMode": false
+    },
+    "summary": "High-density 4-layer copper power board designed for ultra-low switching losses, high RPM brushless motor commutations, and regenerative braking.",
+    "version": 2,
+    "lastSavedAt": 1794488221611
+  },
+  "proj_1794488924562_6xrv": {
+    "id": "proj_1794488924562_6xrv",
+    "name": "Untitled Custom Hardware Build",
+    "subtitle": "Custom Architecture Prototyping",
+    "category": "Power Electronics & Robotics",
+    "voltageRating": "Configurable (0V - 100V)",
+    "currentRating": "Configurable (0A - 200A)",
+    "dimensions": "50.0mm × 35.0mm × 12.0mm",
+    "summary": "Prototyping architecture initialized on Stark Forge optical breadboard.",
+    "productId": "clean_slate",
+    "hiddenPartIds": [],
+    "xrayMode": false,
+    "explodedProgress": 0,
+    "tasks": [],
+    "chatHistory": [],
+    "attachments": [],
+    "checkpoints": [
+      {
+        "id": "chk_1794488924562",
+        "timestamp": 1794488924562,
+        "label": "Project Created",
+        "details": "Initialized with undefined"
+      }
+    ],
+    "version": 1,
+    "lastSavedAt": 1794488924562
+  },
+  "proj_1794488933129_v7tw": {
+    "id": "proj_1794488933129_v7tw",
+    "name": "Untitled Custom Hardware Build",
+    "subtitle": "Custom Architecture Prototyping",
+    "category": "Power Electronics & Robotics",
+    "voltageRating": "Configurable (0V - 100V)",
+    "currentRating": "Configurable (0A - 200A)",
+    "dimensions": "50.0mm × 35.0mm × 12.0mm",
+    "summary": "Prototyping architecture initialized on Stark Forge optical breadboard.",
+    "productId": "clean_slate",
+    "hiddenPartIds": [],
+    "xrayMode": false,
+    "explodedProgress": 0,
+    "tasks": [],
+    "chatHistory": [],
+    "attachments": [],
+    "checkpoints": [
+      {
+        "id": "chk_1794488933129",
+        "timestamp": 1794488933130,
+        "label": "Project Created",
+        "details": "Initialized with undefined"
+      }
+    ],
+    "version": 1,
+    "lastSavedAt": 1794488933130
+  },
+  "proj_1794489026514_yowl": {
+    "id": "proj_1794489026514_yowl",
+    "name": "Untitled Custom Hardware Build",
+    "subtitle": "Custom Architecture Prototyping",
+    "category": "Power Electronics & Robotics",
+    "voltageRating": "Configurable (0V - 100V)",
+    "currentRating": "Configurable (0A - 200A)",
+    "dimensions": "50.0mm × 35.0mm × 12.0mm",
+    "summary": "Prototyping architecture initialized on Stark Forge optical breadboard.",
+    "productId": "clean_slate",
+    "hiddenPartIds": [],
+    "xrayMode": false,
+    "explodedProgress": 0,
+    "tasks": [],
+    "chatHistory": [],
+    "attachments": [],
+    "checkpoints": [
+      {
+        "id": "chk_1794489026514",
+        "timestamp": 1794489026514,
+        "label": "Project Created",
+        "details": "Initialized with undefined"
+      }
+    ],
+    "version": 1,
+    "lastSavedAt": 1794489026514
+  }
+}

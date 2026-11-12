@@ -1,0 +1,11 @@
+{
+  "name": "STARK FORGE: Holographic Hardware Mentor",
+  "description": "Iron Man-inspired 3D CAD/PCB engineering workbench and real-world workshop camera guide with pragmatic AI mentorship.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
